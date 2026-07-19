@@ -1,0 +1,18 @@
+[
+  {
+    "phone": "9045551234",
+    "name": "John Smith",
+    "orders": 18,
+    "lifetimeValue": 12450.72,
+    "lastPurchase": "2026-07-01",
+    "status": "VIP"
+  },
+  {
+    "phone": "9045559876",
+    "name": "Jane Doe",
+    "orders": 3,
+    "lifetimeValue": 410.55,
+    "lastPurchase": "2026-05-12",
+    "status": "Standard"
+  }
+]
