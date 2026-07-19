@@ -27,3 +27,7 @@ The original system helped improve customer service by making relevant customer 
 ## Project status
 
 Initial planning and setup.
+
+## Current Features
+
+- Search customers by phone number
